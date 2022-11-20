@@ -1,19 +1,18 @@
 # prework-study-guide
-A study guide for course pre-work.
+This Study Guide was created for bootcamp students who were going through the Prework. It contains  noted on HTML, CSS, git, and JavaScript.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+I made this study guide in order to inform new students about their course prework.
 
-I made this study guide in order to inform new students about thev course prework.
-It helps students navigate the material. I revised the basics of putting together a website and learnt about the importnace of using Github and managing version control.
+It helps students navigate the material. I revised the basics of putting together a website and learnt about the importance of using Github and managing version control.
 
 
 ## Installation
 
-Simply type the URL into your browser.
+N/A
 
 ## Usage
 
-Use the titles and notes to navigate the prework material.
+To use this Study Guide, you can review the notes in each section. For suggestions on what to do first, open ChromeDevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage browser. There you will see a list of topics we learned from the Prework along with a suggestion on which topic to study first.
 
 ## Credits
 
